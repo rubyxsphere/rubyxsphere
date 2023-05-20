@@ -1,6 +1,5 @@
-<h1 align="right">Programming career <img src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/4cab07e2-4324-49c1-bf7b-f74b60f7f7af" 
-     alt="animated" width="300" height="300" align="left"/>  </h1>
-
+<h1 align="right">Programming career <img src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/ac2244e5-0a02-4b15-b829-2da59a9ac64a" 
+     alt="bubblegum" width="300" height="300" align="left"/>  </h1>
 
 
 ```javascript
@@ -15,9 +14,8 @@
    
 ```
 
-
-<img src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/d039d969-5369-4589-a0b3-7e2efb86eb5d" 
-     alt="animated" width="300" height="300" align="right"/> <br>
+<img src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/2a6aa0b7-bbec-4f5d-9276-a5101b4bea25" 
+     alt="heart" width="300" height="300" align="right"/> <br>
 
 <h1 align="right">About me</h1>
 <br>
