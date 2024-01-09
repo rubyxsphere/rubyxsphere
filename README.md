@@ -1,16 +1,18 @@
-### Hi there 👋
+<img alt="welcome to my github profile" src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/f33357d6-d413-4d9d-b8da-baa0f507511a">
 
-<!--
-**rubyxsphere/rubyxsphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Footer -->
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="software engineer  ·  open-source enthusiast  ·  java, c# and rust" src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/da375f28-1f9c-4044-a5e5-d79545020a29" />
+<br />
+
+#
+
+![visitors](https://profile-counter.glitch.me/rubyxsphere/count.svg)
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
