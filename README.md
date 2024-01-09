@@ -4,15 +4,18 @@
 
 <div align="center">
 
-<img alt="software engineer  ·  open-source enthusiast  ·  java, c# and rust" src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/da375f28-1f9c-4044-a5e5-d79545020a29" />
-<br />
+<img alt="software engineer  ·  open-source enthusiast  ·  java, c# and rust" src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/da375f28-1f9c-4044-a5e5-d79545020a29" /> <br/>
+</div>
 
 #
 
-![visitors](https://profile-counter.glitch.me/rubyxsphere/count.svg)
+<div align="left">
+<img align="right"alt="visitors" src="https://profile-counter.glitch.me/rubyxsphere/count.svg" /> <br/>
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<table>
+  <td>
+    
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21agiw7agqrtuzi7aszsoxska&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  </td>
+</table>
+</div>
