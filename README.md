@@ -8,14 +8,10 @@
 </div>
 
 #
-
-<div align="left">
-<img align="right"alt="visitors" src="https://profile-counter.glitch.me/rubyxsphere/count.svg" /> <br/>
-
+<img align="right" alt="visitors" src="https://profile-counter.glitch.me/rubyxsphere/count.svg" />
 <table>
   <td>
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21agiw7agqrtuzi7aszsoxska&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
   </td>
 </table>
-</div>
