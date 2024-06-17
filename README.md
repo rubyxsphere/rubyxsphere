@@ -8,8 +8,8 @@
 </div>
 
 <img align="right" height="10%" width="10%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" >
-<img align="right" height="10%" width="10%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" hspace="50%">
-<img align="right" height="10%" width="10%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" hspace="100%">
+<img align="right" height="10%" width="10%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png">
+<img align="right" height="10%" width="10%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png">
 
 <kbd><kbd><b>*NOW PLAYING:*</b></kbd><br>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21agiw7agqrtuzi7aszsoxska&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) </kbd>
 
