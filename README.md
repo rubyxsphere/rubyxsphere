@@ -7,7 +7,7 @@
 <img alt="software engineer  ·  open-source enthusiast  ·  java, c# and rust" src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/da375f28-1f9c-4044-a5e5-d79545020a29" /> <br/>
 </div>
 
-<img align="right" height="10%" width="10%" src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/95396b28-5b98-4d50-bb38-ec28aebdecb2" >
+<img align="right" height="10%" width="10%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" >
 <img align="right" height="10%" width="10%" src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/82e41d85-e17d-4c47-a413-556fb954931c" hspace="50%">
 <img align="right" height="10%" width="10%" src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/51743e30-a742-4066-8742-e86ee5e40792" hspace="100%">
 <img align="right" height="10%" width="10%" src="https://github.com/rubyxsphere/rubyxsphere/assets/129624633/68be7b2a-20b2-4d83-b09b-cc1c8ea0a545" hspace="125%">
