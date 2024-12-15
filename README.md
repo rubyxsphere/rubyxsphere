@@ -9,10 +9,6 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="10%" height="10%" align = "right" />
 
-⠀⠀<kbd>[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21agiw7agqrtuzi7aszsoxska&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) </kbd>
+⠀⠀<kbd>[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21agiw7agqrtuzi7aszsoxska&cover_image=true&theme=natemoo-re&show_offline=false&background_color=FFC0CB&interchange=false&bar_color=FFC0CB&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) </kbd>
 
 </kbd>
-<kbd>
-🚧 W.I.P. 🚧
-</kbd>
-<kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd><kbd></kbd>
